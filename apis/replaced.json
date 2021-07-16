@@ -1,0 +1,20 @@
+[
+  {
+    "uniqueId": "qt8ybe2m",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Cora",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fqt8ybe2m.png?alt=media",
+    "employment": {
+      "organization": "Brooks Fashions",
+      "role": "Enrichment education instructor"
+    },
+    "gender": "female",
+    "bloodType": "B+",
+    "height": 160,
+    "weight": 50.5,
+    "deployedAt": 1626202812,
+    "status": "replaced",
+    "refinableLink": "https://app.refinable.com/item/0x312B151A0E87785649eD835D946c2b0de5745c30/3575"
+  }
+]
