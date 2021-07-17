@@ -8,5 +8,10 @@
     "title": "heptaheads",
     "date": "2021-07-07T21:43:24.000Z",
     "content": "HeptaHeads are unique NPCs of the simulation world 'Proxima', every Heptahead is assigned with key attributes like unique ID, name, unique pixelated avatar, gender, and role in the simulation. Besides their avatar, Heptaheads do not have any other graphical feature. NPCs interact with each other within a region called an organisation to generate event logs. After the lifespan (deployment period), HeptaHeads are reset and redeployed with blank event logs. A replacement is made when the logs don't get adequately reset, which is an infrequent and unexplained event. Records of every replaced HeptaHead will be maintained and published on the Proxima Weblog."
+  },
+  {
+    "title": "time",
+    "date": "2021-07-08T22:14:36.000Z",
+    "content": "This log explains how time works in 'Proxima' relative to the real world. Time is measured in terms of 'clicks', and the clicks have a frequency of 24kHz; thus, time passes ~24000x faster than the real world. One Proxima-day is 3.6 seconds long, which is divided into three equal parts morning, evening and night. The number of NPC interactions varies at different times of the day, e.g., more interactions during morning and evening than night. The lifespan of a HeptaHead is 66 Proxima-years, approximately equivalent to 1 Day, i.e. every HeptaHead in the simulation gets reset and redeployed in a span of 24 hours."
   }
 ]
