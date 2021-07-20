@@ -16,5 +16,23 @@
     "deployedAt": 1626202812,
     "status": "replaced",
     "refinableLink": "https://app.refinable.com/item/0x312B151A0E87785649eD835D946c2b0de5745c30/3575"
+  },
+  {
+    "uniqueId": "question",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Clyde",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "employment": {
+      "organization": "Terra",
+      "role": "Travel counselor"
+    },
+    "gender": "male",
+    "bloodType": "O+",
+    "height": 184,
+    "weight": 89.1,
+    "deployedAt": 1626805321,
+    "status": "replaced",
+    "refinableLink": "#"
   }
 ]
