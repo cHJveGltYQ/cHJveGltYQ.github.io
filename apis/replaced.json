@@ -22,7 +22,7 @@
     "entity": "NPC",
     "type": "HeptaHead",
     "assignedName": "Clyde",
-    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fnevm6dcj.png?alt=media",
     "employment": {
       "organization": "Terra",
       "role": "Travel counselor"
@@ -33,6 +33,6 @@
     "weight": 89.1,
     "deployedAt": 1626805321,
     "status": "replaced",
-    "refinableLink": "#"
+    "refinableLink": "https://app.refinable.com/item/0x312b151a0e87785649ed835d946c2b0de5745c30/4346"
   }
 ]
