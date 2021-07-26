@@ -9,6 +9,7 @@
       "organization": "Brooks Fashions",
       "role": "Enrichment education instructor"
     },
+    "stasis": 0.36,
     "gender": "female",
     "bloodType": "B+",
     "height": 160,
@@ -27,6 +28,7 @@
       "organization": "Terra",
       "role": "Travel counselor"
     },
+    "stasis": 0.53,
     "gender": "male",
     "bloodType": "O+",
     "height": 184,
