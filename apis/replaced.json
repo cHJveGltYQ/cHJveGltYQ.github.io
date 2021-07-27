@@ -36,5 +36,24 @@
     "deployedAt": 1626805321,
     "status": "replaced",
     "refinableLink": "https://app.refinable.com/item/0x312b151a0e87785649ed835d946c2b0de5745c30/4346"
+  },
+  {
+    "uniqueId": "upcoming",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Robert",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "employment": {
+      "organization": "L' Fish",
+      "role": "Baggage porter"
+    },
+    "stasis": 0.62,
+    "gender": "male",
+    "bloodType": "A+",
+    "height": 174,
+    "weight": 63.5,
+    "deployedAt": 1627419521,
+    "status": "replaced",
+    "refinableLink": "#"
   }
 ]
