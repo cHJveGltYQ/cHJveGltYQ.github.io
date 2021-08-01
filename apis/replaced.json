@@ -38,11 +38,11 @@
     "refinableLink": "https://app.refinable.com/item/0x312b151a0e87785649ed835d946c2b0de5745c30/4346"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "t8r1zrx7",
     "entity": "NPC",
     "type": "HeptaHead",
     "assignedName": "Robert",
-    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Ft8r1zrx7.png?alt=media",
     "employment": {
       "organization": "L' Fish",
       "role": "Baggage porter"
@@ -54,6 +54,6 @@
     "weight": 63.5,
     "deployedAt": 1627419521,
     "status": "replaced",
-    "refinableLink": "#"
+    "refinableLink": "https://app.refinable.com/minted/0x312b151a0e87785649ed835d946c2b0de5745c30/4687"
   }
 ]
