@@ -57,11 +57,11 @@
     "refinableLink": "https://app.refinable.com/item/0x312b151a0e87785649ed835d946c2b0de5745c30/4687"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "kbw3emow",
     "entity": "NPC",
     "type": "HeptaHead",
     "assignedName": "Jane",
-    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fkbw3emow.png?alt=media",
     "employment": {
       "organization": "Smitty's Marketplace",
       "role": "CAD operator"
@@ -73,6 +73,6 @@
     "weight": 81.9,
     "deployedAt": 1628021189,
     "status": "replaced",
-    "refinableLink": "#"
+    "refinableLink": "https://app.refinable.com/item/0x312B151A0E87785649eD835D946c2b0de5745c30/4974"
   }
 ]
