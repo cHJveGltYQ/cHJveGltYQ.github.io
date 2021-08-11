@@ -74,5 +74,24 @@
     "deployedAt": 1628021189,
     "status": "replaced",
     "refinableLink": "https://app.refinable.com/item/0x312B151A0E87785649eD835D946c2b0de5745c30/4974"
+  },
+  {
+    "uniqueId": "upcoming",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Dexter",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "employment": {
+      "organization": "Grey Fade",
+      "role": "Personal trainer"
+    },
+    "stasis": 0.77,
+    "gender": "male",
+    "bloodType": "B+",
+    "height": 187,
+    "weight": 85.7,
+    "deployedAt": 1628698718,
+    "status": "replaced",
+    "refinableLink": "#"
   }
 ]
