@@ -3,7 +3,9 @@
     "uniqueId": "upcoming",
     "entity": "Ethereal Orbit",
     "name": "Scaian System",
+    "orbitMap": [],
     "preview": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/space.png?alt=media",
+    "imageMap": "#",
     "mediaSrc": "#",
     "refinableLink": "#"
   }
