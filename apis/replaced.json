@@ -93,5 +93,24 @@
     "deployedAt": 1628698718,
     "status": "replaced",
     "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/31"
+  },
+  {
+    "uniqueId": "upcoming",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Ronnie",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "employment": {
+      "organization": "Piccolo Mondo",
+      "role": "Human resources assistant"
+    },
+    "stasis": 0.53,
+    "gender": "male",
+    "bloodType": "AB+",
+    "height": 186,
+    "weight": 97.0,
+    "deployedAt": 1630432575,
+    "status": "replaced",
+    "refinableLink": "#"
   }
 ]
