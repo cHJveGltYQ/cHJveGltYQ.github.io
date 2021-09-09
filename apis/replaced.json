@@ -95,11 +95,11 @@
     "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/31"
   },
   {
-    "uniqueId": "upcoming",
+    "uniqueId": "ybol9h0d",
     "entity": "NPC",
     "type": "HeptaHead",
     "assignedName": "Ronnie",
-    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fybol9h0d.png?alt=media",
     "employment": {
       "organization": "Piccolo Mondo",
       "role": "Human resources assistant"
@@ -111,6 +111,6 @@
     "weight": 97.0,
     "deployedAt": 1630432575,
     "status": "replaced",
-    "refinableLink": "#"
+    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/240/613a21fa87f8b33594eef9dc"
   }
 ]
