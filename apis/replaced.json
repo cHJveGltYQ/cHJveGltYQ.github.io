@@ -112,5 +112,24 @@
     "deployedAt": 1630432575,
     "status": "replaced",
     "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/240/613a21fa87f8b33594eef9dc"
+  },
+  {
+    "uniqueId": "br2akiok",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Nelda",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/replaced-heptaheads%2Fbr2akiok.png?alt=media",
+    "employment": {
+      "organization": "Gas Zone",
+      "role": "Geodetic surveyor"
+    },
+    "stasis": 0.28,
+    "gender": "female",
+    "bloodType": "B+",
+    "height": 152,
+    "weight": 71.6,
+    "deployedAt": 1631438267,
+    "status": "replaced",
+    "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/302/613dc8345cae4d2ba9d112f9"
   }
 ]
