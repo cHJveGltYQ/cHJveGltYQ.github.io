@@ -79,6 +79,20 @@
     "imageMap": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/ethereal-orbits%2Fimage-maps%2Ff744a075.png?alt=media",
     "mediaSrc": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/ethereal-orbits%2Ff744a075.mp4?alt=media",
     "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/301/613dbe914c9835f7b1665a4e"
+  },
+  {
+    "uniqueId": "upcoming",
+    "entity": "Ethereal Orbit",
+    "name": "Linian System",
+    "orbitMap": [
+      {
+        "ethereal": "Lini"
+      }
+    ],
+    "preview": "#",
+    "imageMap": "#",
+    "mediaSrc": "#",
+    "refinableLink": "#"
   }
 ]
 
