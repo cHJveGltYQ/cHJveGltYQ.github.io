@@ -131,5 +131,24 @@
     "deployedAt": 1631438267,
     "status": "replaced",
     "refinableLink": "https://app.refinable.com/item/0x5197f793b54d5d912650597bd8d95122fc3105db/302/613dc8345cae4d2ba9d112f9"
+  },
+  {
+    "uniqueId": "upcoming",
+    "entity": "NPC",
+    "type": "HeptaHead",
+    "assignedName": "Barbra",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/chjvegltyq.appspot.com/o/mystery.jpg?alt=media",
+    "employment": {
+      "organization": "Sears Homelife",
+      "role": "Statistician"
+    },
+    "stasis": 0.48,
+    "gender": "female",
+    "bloodType": "O-",
+    "height": 162,
+    "weight": 67.1,
+    "deployedAt": 1631592776,
+    "status": "replaced",
+    "refinableLink": "#"
   }
 ]
