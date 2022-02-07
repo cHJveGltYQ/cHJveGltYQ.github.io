@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.df12e552.chunk.css",
-    "main.js": "/static/js/main.fe5ab151.chunk.js",
-    "main.js.map": "/static/js/main.fe5ab151.chunk.js.map",
+    "main.js": "/static/js/main.feceba6e.chunk.js",
+    "main.js.map": "/static/js/main.feceba6e.chunk.js.map",
     "reactPlayerDailyMotion.js": "/static/js/reactPlayerDailyMotion.114c967a.chunk.js",
     "reactPlayerDailyMotion.js.map": "/static/js/reactPlayerDailyMotion.114c967a.chunk.js.map",
     "reactPlayerFacebook.js": "/static/js/reactPlayerFacebook.c8b1d201.chunk.js",
@@ -42,7 +42,7 @@
     "static/js/15.ef9b2a54.chunk.js.LICENSE.txt": "/static/js/15.ef9b2a54.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/body-bg.1bf1fd83.png",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/refinable.6a577621.svg": "/static/media/refinable.6a577621.svg",
+    "static/media/opensea.47c3ab4d.svg": "/static/media/opensea.47c3ab4d.svg",
     "static/media/space.6802cc2d.gif": "/static/media/space.6802cc2d.gif"
   },
   "entrypoints": [
@@ -50,6 +50,6 @@
     "static/css/15.d079c822.chunk.css",
     "static/js/15.ef9b2a54.chunk.js",
     "static/css/main.df12e552.chunk.css",
-    "static/js/main.fe5ab151.chunk.js"
+    "static/js/main.feceba6e.chunk.js"
   ]
 }
